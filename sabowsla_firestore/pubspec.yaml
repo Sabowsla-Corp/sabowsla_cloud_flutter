@@ -1,9 +1,9 @@
 name: sabowsla_firestore
-description: "A new Flutter package project."
+description: "Sabowsla Firestore Plugin."
 version: 0.0.1
-homepage:
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+repository: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_firestore'
 
 environment:
   sdk: ^3.5.0
@@ -12,9 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sabowsla_firestore_platform_interface: 
-    path: ../sabowsla_firestore_platform_interface
-
+  sabowsla_firestore_platform_interface: ^0.0.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
