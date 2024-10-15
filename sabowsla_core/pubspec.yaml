@@ -1,9 +1,9 @@
 name: sabowsla_core
-description: "A new Flutter package project."
+description: "Sabowsla Core Plugin."
 version: 0.0.1
-homepage:
 
-publish_to: 'none'
+
+repository: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_core'
 
 environment:
   sdk: ^3.5.0
@@ -14,8 +14,7 @@ dependencies:
     sdk: flutter
   path_provider: ^2.1.4
   rxdart: ^0.27.7
-  sabowsla_core_platform_interface: 
-    path: ../sabowsla_core_platform_interface
+  sabowsla_core_platform_interface: ^0.0.1
   sembast: ^3.7.4+3
   shared_preferences: ^2.3.1
 

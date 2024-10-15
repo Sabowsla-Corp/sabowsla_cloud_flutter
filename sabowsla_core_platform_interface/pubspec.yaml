@@ -1,9 +1,9 @@
 name: sabowsla_core_platform_interface
 description: "Sabowsla Core Platform Interface Plugin"
 version: 0.0.1
-homepage: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_core_platform_interface'
 
-publish_to: "https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_core_platform_interface"
+
+repository: "https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_core_platform_interface"
 
 environment:
   sdk: ^3.5.0
