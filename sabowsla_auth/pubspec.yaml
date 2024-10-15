@@ -1,9 +1,9 @@
 name: sabowsla_auth
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "Sabowsla Auth Plugin"
+version: 0.0.3
 
-publish_to: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_auth'
+
+repository: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_auth'
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -18,7 +18,8 @@ dependencies:
   dartz: ^0.10.1
   http: ^1.2.2
   built_value: ^8.9.2
-  built_collection: any
+  built_collection: ^5.1.1
+  crypto: ^3.0.5
 
 dev_dependencies:
   flutter_test:
