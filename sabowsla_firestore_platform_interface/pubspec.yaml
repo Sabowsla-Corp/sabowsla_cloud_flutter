@@ -1,7 +1,8 @@
 name: sabowsla_firestore_platform_interface
-description: "A new Flutter package project."
+description: "Sabowsla Firestore Platform Interface."
 version: 0.0.1
-homepage:
+
+repository: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_firestore_platform_interface'
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
