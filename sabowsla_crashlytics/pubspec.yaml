@@ -1,7 +1,8 @@
 name: sabowsla_crashlytics
-description: "A new Flutter package project."
+description: "Sabowsla Crashlytics Plugin."
 version: 0.0.1
-homepage:
+
+repository: 'https://github.com/Sabowsla-Corp/sabowsla_cloud_flutter/tree/main/sabowsla_crashlytics'
 
 environment:
   sdk: ^3.5.0
